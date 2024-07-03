@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <script>
 
 var post1 = {
     id: 1,
@@ -40,7 +31,3 @@ console.log("Author: " + post2.author);
 console.log("Created Date: " + post2.created);
 console.log("Body: " + post2.body);
 
-
-    </script>
-</body>
-</html>
