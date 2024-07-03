@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <script>
 
 var questionAndAnswer = {
     question: "What is the capital of France?",
@@ -24,6 +15,4 @@ console.log("1. " + questionAndAnswer.answer1);
 console.log("2. " + questionAndAnswer.answer2);
 console.log("3. " + questionAndAnswer.answer3);
 console.log("4. " + questionAndAnswer.answer4);
-    </script>
-</body>
-</html>
+  
