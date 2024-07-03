@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <script>
+
 var book1Title = "The Hobbit";
 var book1Author = "J.R.R.Tolkien";
 
@@ -25,6 +17,4 @@ console.log(book2Title + " by " + book2Author);
 console.log(book3Title + " by " + book3Author);
 console.log(book4Title + " by " + book4Author);
         
-        </script>
-</body>
-</html>
+      
