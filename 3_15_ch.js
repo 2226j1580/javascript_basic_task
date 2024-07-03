@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <script>
+
 
 var player1 = {
     name: "Kandra",
@@ -32,6 +24,4 @@ console.log("\n" + player2.name);
 console.log(player2.name + " is in " + player2.place);
 console.log(player2.name + " has health " + player2.health);
 console.log("Items: " + player2.items.join(", "));
-    </script>
-</body>
-</html>
+   
