@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <script> 
+
 var score;
 score = 100;
 console.log("Your score was " + score);
@@ -25,9 +17,3 @@ console.log("New score after splatting kumquat: " + score);
 
 console.log("Congratulations!");
 
-
-        
-        </script>
-    
-</body>
-</html>
