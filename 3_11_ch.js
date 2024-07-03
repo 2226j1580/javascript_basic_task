@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <script>
+
 var player1, player2;
 
 player1 = {
@@ -35,6 +27,4 @@ console.log(player2.name + " has scored " + player2.score);
 var totalScore = player1.score + player2.score;
 console.log("Total score of " + player1.name + " and " + player2.name + " is " + totalScore);
 
-    </script>
-</body>
-</html>
+ 
