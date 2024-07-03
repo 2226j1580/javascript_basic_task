@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <script> 
 
     //valid variables
  var thisIsFine; //Starts with a lowercase letter, followed by letters or digits.
@@ -24,7 +15,3 @@ var single words only;//Contains spaces, which are not allowed in variable names
 var yield;//Is a reserved keyword in JavaScript and cannot be used as a variable name.
 
         
-        </script>
-    
-</body>
-</html>
