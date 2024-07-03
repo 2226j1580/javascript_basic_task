@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <script>
-
 
 var movie1, movie2, movie3, movie4;
 
@@ -60,7 +50,3 @@ console.log("Actors: " + movie4.actors);
 console.log("Directors: " + movie4.directors);
 console.log("------------------------------");
 
-
-</script>
-</body>
-</html>
