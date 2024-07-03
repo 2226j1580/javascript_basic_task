@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <script>
-        
+
         var book1;
         var book2;
 
@@ -28,9 +19,3 @@ console.log(book1);
 
 console.log("Book 2:");
 console.log(book2);
-
-
-
-    </script>
-</body>
-</html>
