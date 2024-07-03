@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <script>
+
 var book;
 var bookName;
 
@@ -26,6 +18,4 @@ book.title = bookName;
 console.log("Updated Book:");
 console.log(book);
 
-    </script>
-</body>
-</html>
+ 
