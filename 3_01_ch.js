@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <script>
+
         var bookTitle1, bookAuthor1;
         var bookTitle2, bookAuthor2;
         var bookTitle3, bookAuthor3;
@@ -62,6 +54,4 @@
         for (var i = 0; i < 10; i++) {
             console.log(bookTitles[i] + " by " + bookAuthors[i]);
         }
-        </script>
-</body>
-</html>
+  
