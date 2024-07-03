@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <script>
 
 var sale1, sale2, sale3, sale4;
 
@@ -53,7 +44,3 @@ console.log("Tax @ " + sale4.taxRate + "% = $" + sale4.tax);
 console.log("Total cost = $" + sale4.total);
 console.log("\n");
 
-
-</script>
-</body>
-</html>
