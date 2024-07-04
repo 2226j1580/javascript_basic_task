@@ -5,5 +5,5 @@ showMessage = function (message) {
 };
 
 showMessage("It's full of stars!");
-showMessage("Hello, world!"); 
-showMessage("This is another message."); 
+showMessage("The dark night"); 
+showMessage("Big moon"); 
